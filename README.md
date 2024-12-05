@@ -4,7 +4,8 @@ Completed
 ## Project Overview
 This project is a web-based GPS visualization system that connects to a GPS emulation service via WebSocket. It processes real-time data and visualizes the positions of an object and satellites on a Cartesian coordinate graph.
 
-![GPS Visualization](image.png)
+![image](https://github.com/user-attachments/assets/b26699d3-38a5-4803-ac4d-11ff90d800a8)
+
 
 ## Features
 
