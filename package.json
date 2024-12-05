@@ -1,0 +1,12 @@
+{
+    "name": "gps-visualization",
+    "version": "1.0.0",
+    "description": "Gps visualization",
+    "scripts": {
+        "start": "live-server"
+    },
+    "author": "Кирилл Кирьяк",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
